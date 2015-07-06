@@ -13,6 +13,9 @@
 		4B5DFEFD1B4AD9C6006E456B /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4B5DFEFC1B4AD9C6006E456B /* Images.xcassets */; };
 		4B5DFF001B4AD9C6006E456B /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 4B5DFEFE1B4AD9C6006E456B /* LaunchScreen.xib */; };
 		4B5DFF0C1B4AD9C6006E456B /* Tic_Tac_ToeTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4B5DFF0B1B4AD9C6006E456B /* Tic_Tac_ToeTests.swift */; };
+		4B5DFF181B4ADA41006E456B /* board.png in Resources */ = {isa = PBXBuildFile; fileRef = 4B5DFF151B4ADA41006E456B /* board.png */; };
+		4B5DFF191B4ADA41006E456B /* cross.png in Resources */ = {isa = PBXBuildFile; fileRef = 4B5DFF161B4ADA41006E456B /* cross.png */; };
+		4B5DFF1A1B4ADA41006E456B /* nought.png in Resources */ = {isa = PBXBuildFile; fileRef = 4B5DFF171B4ADA41006E456B /* nought.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,6 +39,9 @@
 		4B5DFF051B4AD9C6006E456B /* Tic-Tac-ToeTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Tic-Tac-ToeTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		4B5DFF0A1B4AD9C6006E456B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		4B5DFF0B1B4AD9C6006E456B /* Tic_Tac_ToeTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Tic_Tac_ToeTests.swift; sourceTree = "<group>"; };
+		4B5DFF151B4ADA41006E456B /* board.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = board.png; sourceTree = "<group>"; };
+		4B5DFF161B4ADA41006E456B /* cross.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = cross.png; sourceTree = "<group>"; };
+		4B5DFF171B4ADA41006E456B /* nought.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = nought.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -79,6 +85,9 @@
 			children = (
 				4B5DFEF51B4AD9C6006E456B /* AppDelegate.swift */,
 				4B5DFEF71B4AD9C6006E456B /* ViewController.swift */,
+				4B5DFF151B4ADA41006E456B /* board.png */,
+				4B5DFF161B4ADA41006E456B /* cross.png */,
+				4B5DFF171B4ADA41006E456B /* nought.png */,
 				4B5DFEF91B4AD9C6006E456B /* Main.storyboard */,
 				4B5DFEFC1B4AD9C6006E456B /* Images.xcassets */,
 				4B5DFEFE1B4AD9C6006E456B /* LaunchScreen.xib */,
@@ -192,6 +201,9 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				4B5DFF191B4ADA41006E456B /* cross.png in Resources */,
+				4B5DFF181B4ADA41006E456B /* board.png in Resources */,
+				4B5DFF1A1B4ADA41006E456B /* nought.png in Resources */,
 				4B5DFEFB1B4AD9C6006E456B /* Main.storyboard in Resources */,
 				4B5DFF001B4AD9C6006E456B /* LaunchScreen.xib in Resources */,
 				4B5DFEFD1B4AD9C6006E456B /* Images.xcassets in Resources */,
