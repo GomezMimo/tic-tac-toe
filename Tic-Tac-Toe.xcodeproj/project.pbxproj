@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		4B2E63C81B59E4C400065E00 /* cross2.png in Resources */ = {isa = PBXBuildFile; fileRef = 4B2E63C71B59E4C400065E00 /* cross2.png */; };
+		4B2E63CA1B59E4C900065E00 /* nought3.png in Resources */ = {isa = PBXBuildFile; fileRef = 4B2E63C91B59E4C900065E00 /* nought3.png */; };
 		4B5DFEF61B4AD9C6006E456B /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4B5DFEF51B4AD9C6006E456B /* AppDelegate.swift */; };
 		4B5DFEF81B4AD9C6006E456B /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4B5DFEF71B4AD9C6006E456B /* ViewController.swift */; };
 		4B5DFEFB1B4AD9C6006E456B /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4B5DFEF91B4AD9C6006E456B /* Main.storyboard */; };
@@ -14,8 +16,10 @@
 		4B5DFF001B4AD9C6006E456B /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 4B5DFEFE1B4AD9C6006E456B /* LaunchScreen.xib */; };
 		4B5DFF0C1B4AD9C6006E456B /* Tic_Tac_ToeTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4B5DFF0B1B4AD9C6006E456B /* Tic_Tac_ToeTests.swift */; };
 		4B5DFF181B4ADA41006E456B /* board.png in Resources */ = {isa = PBXBuildFile; fileRef = 4B5DFF151B4ADA41006E456B /* board.png */; };
-		4B5DFF191B4ADA41006E456B /* cross.png in Resources */ = {isa = PBXBuildFile; fileRef = 4B5DFF161B4ADA41006E456B /* cross.png */; };
-		4B5DFF1A1B4ADA41006E456B /* nought.png in Resources */ = {isa = PBXBuildFile; fileRef = 4B5DFF171B4ADA41006E456B /* nought.png */; };
+		4B5DFF191B4ADA41006E456B /* cross1.png in Resources */ = {isa = PBXBuildFile; fileRef = 4B5DFF161B4ADA41006E456B /* cross1.png */; };
+		4B5DFF1A1B4ADA41006E456B /* nought1.png in Resources */ = {isa = PBXBuildFile; fileRef = 4B5DFF171B4ADA41006E456B /* nought1.png */; };
+		4B8FF93D1B65CD2B008ADD23 /* sara.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 4B8FF93C1B65CD2B008ADD23 /* sara.jpg */; };
+		4B8FF93F1B65CD43008ADD23 /* juan.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 4B8FF93E1B65CD43008ADD23 /* juan.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -29,6 +33,8 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		4B2E63C71B59E4C400065E00 /* cross2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = cross2.png; path = ../../../../../Downloads/cross2.png; sourceTree = "<group>"; };
+		4B2E63C91B59E4C900065E00 /* nought3.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = nought3.png; path = ../../../../../Downloads/nought3.png; sourceTree = "<group>"; };
 		4B5DFEF01B4AD9C6006E456B /* Tic-Tac-Toe.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Tic-Tac-Toe.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		4B5DFEF41B4AD9C6006E456B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		4B5DFEF51B4AD9C6006E456B /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
@@ -40,8 +46,10 @@
 		4B5DFF0A1B4AD9C6006E456B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		4B5DFF0B1B4AD9C6006E456B /* Tic_Tac_ToeTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Tic_Tac_ToeTests.swift; sourceTree = "<group>"; };
 		4B5DFF151B4ADA41006E456B /* board.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = board.png; sourceTree = "<group>"; };
-		4B5DFF161B4ADA41006E456B /* cross.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = cross.png; sourceTree = "<group>"; };
-		4B5DFF171B4ADA41006E456B /* nought.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = nought.png; sourceTree = "<group>"; };
+		4B5DFF161B4ADA41006E456B /* cross1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = cross1.png; sourceTree = "<group>"; };
+		4B5DFF171B4ADA41006E456B /* nought1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = nought1.png; sourceTree = "<group>"; };
+		4B8FF93C1B65CD2B008ADD23 /* sara.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = sara.jpg; sourceTree = "<group>"; };
+		4B8FF93E1B65CD43008ADD23 /* juan.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = juan.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -86,8 +94,12 @@
 				4B5DFEF51B4AD9C6006E456B /* AppDelegate.swift */,
 				4B5DFEF71B4AD9C6006E456B /* ViewController.swift */,
 				4B5DFF151B4ADA41006E456B /* board.png */,
-				4B5DFF161B4ADA41006E456B /* cross.png */,
-				4B5DFF171B4ADA41006E456B /* nought.png */,
+				4B2E63C71B59E4C400065E00 /* cross2.png */,
+				4B8FF93C1B65CD2B008ADD23 /* sara.jpg */,
+				4B5DFF161B4ADA41006E456B /* cross1.png */,
+				4B2E63C91B59E4C900065E00 /* nought3.png */,
+				4B8FF93E1B65CD43008ADD23 /* juan.jpg */,
+				4B5DFF171B4ADA41006E456B /* nought1.png */,
 				4B5DFEF91B4AD9C6006E456B /* Main.storyboard */,
 				4B5DFEFC1B4AD9C6006E456B /* Images.xcassets */,
 				4B5DFEFE1B4AD9C6006E456B /* LaunchScreen.xib */,
@@ -201,10 +213,14 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				4B5DFF191B4ADA41006E456B /* cross.png in Resources */,
+				4B5DFF191B4ADA41006E456B /* cross1.png in Resources */,
+				4B2E63C81B59E4C400065E00 /* cross2.png in Resources */,
 				4B5DFF181B4ADA41006E456B /* board.png in Resources */,
-				4B5DFF1A1B4ADA41006E456B /* nought.png in Resources */,
+				4B2E63CA1B59E4C900065E00 /* nought3.png in Resources */,
+				4B8FF93D1B65CD2B008ADD23 /* sara.jpg in Resources */,
+				4B5DFF1A1B4ADA41006E456B /* nought1.png in Resources */,
 				4B5DFEFB1B4AD9C6006E456B /* Main.storyboard in Resources */,
+				4B8FF93F1B65CD43008ADD23 /* juan.jpg in Resources */,
 				4B5DFF001B4AD9C6006E456B /* LaunchScreen.xib in Resources */,
 				4B5DFEFD1B4AD9C6006E456B /* Images.xcassets in Resources */,
 			);
@@ -421,6 +437,7 @@
 				4B5DFF111B4AD9C6006E456B /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		4B5DFF121B4AD9C6006E456B /* Build configuration list for PBXNativeTarget "Tic-Tac-ToeTests" */ = {
 			isa = XCConfigurationList;
@@ -429,6 +446,7 @@
 				4B5DFF141B4AD9C6006E456B /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
